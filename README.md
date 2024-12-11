@@ -1,11 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiryasn&label=Profile%20views&color=0e75b6&style=flat" alt="fatiryasn" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Computer Vision**
-
-- 💬 Ask me about **MERN, Python**
-
-- 📫 How to reach me **ahmadfatir243@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ftryas.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftryas.n" height="30" width="40" /></a>
