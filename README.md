@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiryasn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="fatiryasn" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fatiryasn&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=fatiryasn" alt="GitHub Streak" /></a>
