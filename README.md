@@ -5,7 +5,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ftryas.n" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <!-- Website -->
-  <a href="https://fatirayp.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://fatiray.my.id/" target="_blank" rel="noreferrer">
     <img align="center" src="https://api.iconify.design/mdi:web.svg?color=%231976D2" alt="website" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <!-- LinkedIn -->
